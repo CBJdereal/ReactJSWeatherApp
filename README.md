@@ -1,4 +1,4 @@
-# Weather App
+# Weather App w ReactJS
 
 A simple React.js-based weather application that displays the current weather information for a specified city.
 
@@ -16,12 +16,12 @@ A simple React.js-based weather application that displays the current weather in
 
 1. Clone the repository:
    ```sh
-   git clone 
+   git clone https://github.com/CBJdereal/ReactJSWeatherApp.git
    ```
 
 2. Navigate to the project directory:
    ```sh
-   cd 
+   cd ReactJSWeatherApp
    ```
 
 3. Install the dependencies:
