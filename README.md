@@ -16,12 +16,12 @@ A simple React.js-based weather application that displays the current weather in
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/weather-app.git
+   git clone 
    ```
 
 2. Navigate to the project directory:
    ```sh
-   cd weather-app
+   cd 
    ```
 
 3. Install the dependencies:
@@ -36,12 +36,12 @@ A simple React.js-based weather application that displays the current weather in
 
 5. Start the development server:
    ```sh
-   npm start
+   npm run dev
    ```
 
 ## Usage
 
-After following the installation steps, open your browser and navigate to `http://localhost:3000` to view the app. The app will display the current weather information for the default city (Dubai). You can search for other cities using the search bar.
+After following the installation steps, open your browser and navigate to `(http://localhost:5173)` to view the app. The app will display the current weather information for the default city (Dubai). You can search for other cities using the search bar.
 
 ## File Structure
 
@@ -353,7 +353,6 @@ VITE_APP_API_KEY=your_api_key_here
 
 Make sure to replace `"your_api_key_here"` with your actual OpenWeatherMap API key in the `.env` file.
 
-Sure, here are the additional sections for test demo cases:
 
 ## Test Demo Cases
 
